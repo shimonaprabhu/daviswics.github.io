@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/daviswics.github.io/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/daviswics.github.io/static/js/main.a4f71cb4.chunk.js",
+    "main.js.map": "/daviswics.github.io/static/js/main.a4f71cb4.chunk.js.map",
+    "runtime-main.js": "/daviswics.github.io/static/js/runtime-main.2fc59275.js",
+    "runtime-main.js.map": "/daviswics.github.io/static/js/runtime-main.2fc59275.js.map",
+    "static/js/2.9d370b66.chunk.js": "/daviswics.github.io/static/js/2.9d370b66.chunk.js",
+    "static/js/2.9d370b66.chunk.js.map": "/daviswics.github.io/static/js/2.9d370b66.chunk.js.map",
+    "static/js/3.e0ddd4c9.chunk.js": "/daviswics.github.io/static/js/3.e0ddd4c9.chunk.js",
+    "static/js/3.e0ddd4c9.chunk.js.map": "/daviswics.github.io/static/js/3.e0ddd4c9.chunk.js.map",
+    "index.html": "/daviswics.github.io/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/daviswics.github.io/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.9d370b66.chunk.js.LICENSE.txt": "/daviswics.github.io/static/js/2.9d370b66.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/daviswics.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fc59275.js",
+    "static/js/2.9d370b66.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.a4f71cb4.chunk.js"
+  ]
+}
